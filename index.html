@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistisk ordlista / Statistical Glossary</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+            background: #f8f9fa;
+            color: #1a1a1a;
+            line-height: 1.5;
+        }
+
+        header {
+            background: #1c3d5a;
+            color: #fff;
+            padding: 2rem 1rem 1.5rem;
+            text-align: center;
+            position: relative;
+        }
+
+        header h1 {
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin-bottom: 0.3rem;
+        }
+
+        header p {
+            font-size: 0.9rem;
+            opacity: 0.85;
+        }
+
+        .lang-toggle {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 4px;
+            padding: 0.25rem 0.5rem;
+            color: #fff;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .lang-toggle:hover {
+            background: rgba(255,255,255,0.25);
+        }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 1.5rem 1rem;
+        }
+
+        .search-box {
+            position: sticky;
+            top: 0;
+            background: #f8f9fa;
+            padding: 0.8rem 0;
+            z-index: 10;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 0.7rem 1rem;
+            font-size: 1rem;
+            border: 2px solid #ccc;
+            border-radius: 6px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-box input:focus {
+            border-color: #1c3d5a;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .filter-buttons button {
+            background: none;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 0.2rem 0.6rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            margin-left: 0.3rem;
+            color: #555;
+        }
+
+        .filter-buttons button.active {
+            background: #1c3d5a;
+            color: #fff;
+            border-color: #1c3d5a;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border-radius: 6px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+        }
+
+        thead {
+            background: #e9ecef;
+        }
+
+        th {
+            text-align: left;
+            padding: 0.6rem 0.8rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #444;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        th:hover {
+            color: #1c3d5a;
+        }
+
+        th .sort-arrow {
+            font-size: 0.7rem;
+            margin-left: 0.3rem;
+            opacity: 0.4;
+        }
+
+        th.sorted .sort-arrow {
+            opacity: 1;
+        }
+
+        td {
+            padding: 0.5rem 0.8rem;
+            font-size: 0.9rem;
+            border-top: 1px solid #eee;
+        }
+
+        tr:hover td {
+            background: #f0f4f8;
+        }
+
+        .col-en { width: 45%; }
+        .col-sv { width: 45%; }
+        .col-src { width: 10%; text-align: center; }
+
+        .tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            padding: 0.1rem 0.4rem;
+            border-radius: 3px;
+            font-weight: 600;
+        }
+
+        .tag-isi {
+            background: #e3edf5;
+            color: #2a5a8a;
+        }
+
+        .tag-new {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .note {
+            display: block;
+            font-size: 0.75rem;
+            color: #888;
+            margin-top: 0.15rem;
+        }
+
+        .also-known {
+            display: block;
+            font-size: 0.75rem;
+            color: #999;
+            font-style: italic;
+            margin-top: 0.15rem;
+        }
+
+        mark {
+            background: #fff3cd;
+            padding: 0 1px;
+            border-radius: 2px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            font-size: 0.8rem;
+            color: #888;
+            line-height: 1.7;
+        }
+
+        footer a {
+            color: #1c3d5a;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 2rem;
+            color: #888;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.3rem; }
+            td, th { padding: 0.4rem 0.5rem; font-size: 0.82rem; }
+            .col-src { display: none; }
+            .col-en, .col-sv { width: 50%; }
+            .lang-toggle { top: 0.5rem; right: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <button class="lang-toggle" id="lang-toggle" onclick="toggleLang()">&#127468;&#127463; English</button>
+    <h1 id="h-title">Statistisk ordlista</h1>
+    <p id="h-subtitle">Engelsk-svensk ordlista med 2 050 termer inom statistik och ekonometri</p>
+</header>
+
+<div class="container">
+    <div class="search-box">
+        <input type="text" id="search" placeholder="Sök (engelska eller svenska)..." autofocus>
+    </div>
+
+    <div class="stats">
+        <span id="count">2 050 termer</span>
+        <div class="filter-buttons">
+            <button id="btn-all" class="active" onclick="setFilter('all')">Alla</button>
+            <button id="btn-isi" onclick="setFilter('ISI')">ISI (2008)</button>
+            <button id="btn-new" onclick="setFilter('Lodefalk')">Nya termer</button>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th class="col-en sorted" id="th-en" onclick="sortBy('english')">English <span class="sort-arrow">&#9650;</span></th>
+                <th class="col-sv" id="th-sv" onclick="sortBy('swedish')">Svenska <span class="sort-arrow">&#9650;</span></th>
+                <th class="col-src" id="th-src" onclick="sortBy('source')">Källa <span class="sort-arrow">&#9650;</span></th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+
+    <div id="no-results" class="no-results" style="display:none;">Inga termer hittades.</div>
+</div>
+
+<footer id="footer">
+    Bas: ISI Multilingual Glossary of Statistical Terms, svensk översättning av
+    J. Enger, B. Huitfeldt, U. Jorner &amp; J. Wretman (2008),
+    Statistikfrämjandet.<br>
+    Tillägg av moderna ekonometriska termer: Magnus Lodefalk (2026).<br>
+    Licens: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+</footer>
+
+<script>
+// GLOSSARY DATA — embedded at build time
+const RAW_TERMS = GLOSSARY_DATA_PLACEHOLDER;
+
+// Expand semicolon-separated English alternatives into searchable entries.
+// Each entry keeps a reference to all alternative names for display.
+const TERMS = [];
+for (const t of RAW_TERMS) {
+    const alts = t.english.split(' ; ').map(s => s.trim()).filter(Boolean);
+    if (alts.length <= 1) {
+        // Single term — use as-is
+        TERMS.push({ english: t.english, swedish: t.swedish, source: t.source, notes: t.notes, alts: [] });
+    } else {
+        // Multiple alternatives — create one entry per alternative,
+        // with the others listed as "also known as"
+        for (const alt of alts) {
+            const others = alts.filter(a => a !== alt);
+            TERMS.push({
+                english: alt,
+                swedish: t.swedish,
+                source: t.source,
+                notes: t.notes,
+                alts: others
+            });
+        }
+    }
+}
+
+// --- i18n ---
+let lang = 'sv';
+const I18N = {
+    sv: {
+        title: 'Statistisk ordlista',
+        subtitle: 'Engelsk-svensk ordlista med NTERMS termer inom statistik och ekonometri',
+        placeholder: 'Sök (engelska eller svenska)...',
+        count_suffix: ' termer',
+        all: 'Alla',
+        new_terms: 'Nya termer',
+        col_en: 'English',
+        col_sv: 'Svenska',
+        col_src: 'Källa',
+        no_results: 'Inga termer hittades.',
+        toggle: '\u{1F1EC}\u{1F1E7} English',
+        footer: 'Bas: ISI Multilingual Glossary of Statistical Terms, svensk översättning av J.\u00A0Enger, B.\u00A0Huitfeldt, U.\u00A0Jorner &amp; J.\u00A0Wretman (2008), Statistikfrämjandet.<br>Tillägg av moderna ekonometriska termer: Magnus Lodefalk (2026).<br>Licens: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>',
+        also: 'även'
+    },
+    en: {
+        title: 'Statistical Glossary',
+        subtitle: 'English\u2013Swedish glossary with NTERMS terms in statistics and econometrics',
+        placeholder: 'Search (English or Swedish)...',
+        count_suffix: ' terms',
+        all: 'All',
+        new_terms: 'New terms',
+        col_en: 'English',
+        col_sv: 'Swedish',
+        col_src: 'Source',
+        no_results: 'No terms found.',
+        toggle: '\u{1F1F8}\u{1F1EA} Svenska',
+        footer: 'Base: ISI Multilingual Glossary of Statistical Terms, Swedish translation by J.\u00A0Enger, B.\u00A0Huitfeldt, U.\u00A0Jorner &amp; J.\u00A0Wretman (2008), Statistikfrämjandet.<br>Modern econometric terms added by Magnus Lodefalk (2026).<br>Licence: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>',
+        also: 'also'
+    }
+};
+
+function toggleLang() {
+    lang = lang === 'sv' ? 'en' : 'sv';
+    applyLang();
+    render();
+}
+
+function applyLang() {
+    const t = I18N[lang];
+    document.getElementById('h-title').textContent = t.title;
+    document.getElementById('h-subtitle').innerHTML = t.subtitle.replace('NTERMS', RAW_TERMS.length.toLocaleString(lang === 'sv' ? 'sv-SE' : 'en-GB'));
+    document.getElementById('search').placeholder = t.placeholder;
+    document.getElementById('btn-all').textContent = t.all;
+    document.getElementById('btn-new').textContent = t.new_terms;
+    document.getElementById('th-sv').innerHTML = t.col_sv + ' <span class="sort-arrow">&#9650;</span>';
+    document.getElementById('th-src').innerHTML = t.col_src + ' <span class="sort-arrow">&#9650;</span>';
+    document.getElementById('no-results').textContent = t.no_results;
+    document.getElementById('lang-toggle').innerHTML = t.toggle;
+    document.getElementById('footer').innerHTML = t.footer;
+    document.documentElement.lang = lang;
+}
+
+let currentFilter = 'all';
+let currentSort = { key: 'english', asc: true };
+let searchTerm = '';
+
+const tbody = document.getElementById('tbody');
+const countEl = document.getElementById('count');
+const noResults = document.getElementById('no-results');
+const searchInput = document.getElementById('search');
+
+function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function highlight(text, query) {
+    if (!query) return escapeHtml(text);
+    const escaped = escapeHtml(text);
+    const re = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    return escaped.replace(re, '<mark>$1</mark>');
+}
+
+function relevanceScore(term, query) {
+    // Higher score = better match. Used to rank search results.
+    const en = term.english.toLowerCase();
+    const sv = term.swedish.toLowerCase();
+    const q = query.toLowerCase();
+    if (en === q || sv === q) return 100;           // exact match
+    if (en.startsWith(q) || sv.startsWith(q)) return 80;  // starts with
+    // Match at word boundary
+    const wordRe = new RegExp('\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    if (wordRe.test(en) || wordRe.test(sv)) return 60;
+    return 40;  // substring match
+}
+
+function render() {
+    const t = I18N[lang];
+    let filtered = TERMS;
+
+    if (currentFilter !== 'all') {
+        filtered = filtered.filter(t => t.source === currentFilter);
+    }
+
+    if (searchTerm) {
+        const q = searchTerm.toLowerCase();
+        filtered = filtered.filter(t =>
+            t.english.toLowerCase().includes(q) ||
+            t.swedish.toLowerCase().includes(q)
+        );
+        // Sort by relevance when searching
+        filtered.sort((a, b) => relevanceScore(b, searchTerm) - relevanceScore(a, searchTerm));
+    } else {
+        const key = currentSort.key;
+        const dir = currentSort.asc ? 1 : -1;
+        filtered.sort((a, b) => {
+            const va = (a[key] || '').toLowerCase();
+            const vb = (b[key] || '').toLowerCase();
+            return va < vb ? -dir : va > vb ? dir : 0;
+        });
+    }
+
+    if (filtered.length === 0) {
+        tbody.innerHTML = '';
+        noResults.style.display = 'block';
+        countEl.textContent = '0' + t.count_suffix;
+        return;
+    }
+
+    noResults.style.display = 'none';
+    countEl.textContent = filtered.length.toLocaleString(lang === 'sv' ? 'sv-SE' : 'en-GB') + t.count_suffix;
+
+    const fragment = document.createDocumentFragment();
+    for (const term of filtered) {
+        const tr = document.createElement('tr');
+        const srcTag = term.source === 'ISI'
+            ? '<span class="tag tag-isi">ISI</span>'
+            : '<span class="tag tag-new">Ny</span>';
+        const noteHtml = term.notes ? '<span class="note">' + escapeHtml(term.notes) + '</span>' : '';
+        const altsHtml = term.alts.length > 0
+            ? '<span class="also-known">' + t.also + ': ' + escapeHtml(term.alts.join('; ')) + '</span>'
+            : '';
+
+        tr.innerHTML =
+            '<td class="col-en">' + highlight(term.english, searchTerm) + altsHtml + '</td>' +
+            '<td class="col-sv">' + highlight(term.swedish, searchTerm) + noteHtml + '</td>' +
+            '<td class="col-src">' + srcTag + '</td>';
+        fragment.appendChild(tr);
+    }
+
+    tbody.innerHTML = '';
+    tbody.appendChild(fragment);
+}
+
+function sortBy(key) {
+    if (currentSort.key === key) {
+        currentSort.asc = !currentSort.asc;
+    } else {
+        currentSort.key = key;
+        currentSort.asc = true;
+    }
+
+    document.querySelectorAll('th').forEach(th => th.classList.remove('sorted'));
+    const headers = { english: 0, swedish: 1, source: 2 };
+    const th = document.querySelectorAll('th')[headers[key]];
+    th.classList.add('sorted');
+    th.querySelector('.sort-arrow').innerHTML = currentSort.asc ? '&#9650;' : '&#9660;';
+
+    render();
+}
+
+function setFilter(f) {
+    currentFilter = f;
+    document.querySelectorAll('.filter-buttons button').forEach(b => b.classList.remove('active'));
+    document.getElementById('btn-' + (f === 'all' ? 'all' : f === 'ISI' ? 'isi' : 'new')).classList.add('active');
+    render();
+}
+
+searchInput.addEventListener('input', function() {
+    searchTerm = this.value.trim();
+    render();
+});
+
+applyLang();
+render();
+</script>
+
+</body>
+</html>

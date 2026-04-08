@@ -1,0 +1,2014 @@
+english,swedish
+abnormal curve,abnorm kurva
+abrupt change,plötslig förändring
+absolute deviation ; average deviation,absolutavvikelse
+absolute difference,absolut skillnad
+absolute error,absolutfel
+absolute frequency,absolut frekvens
+absolute measure,absolutmått
+absolute moments,absolutmoment
+absolute risk,absolut risk
+absolutely unbiased estimator,absolut väntevärdesriktig estimator
+absorbing barrier,absorberande barriär
+absorbing Markov chain,absorberande markovkedja
+absorbing region,absorberande regioner
+absorbing state,absorberande tillstånd
+absorption distributions,absorptionsfördelning
+accelerated life testing,accelererad livlängdsprovning
+accelerated test,accelererad provning
+acceptable quality level ; AQL ; acceptance quality level,acceptabel kvalitetsnivå
+acceptance control chart,acceptansstyrdiagram; acceptanskontrolldiagram
+acceptance error ; beta error ; β-error ; type II error ; error of second kind,typ II-fel; fel av andra slaget
+acceptance inspection,acceptanskontroll
+acceptance line ; acceptance boundary,acceptansgräns
+acceptance number,acceptanstal
+acceptance region,acceptansområde
+acceptance sampling,acceptansprovtagning
+accumulated deviation,kumulativ avvikelse
+accumulated process,kumulativ process
+accuracy,noggrannhet
+actuarial statistics,aktuariestatistik
+adaptive inference,adaptiv inferens
+adaptive kernel estimation,adaptiv kärnskattning
+adaptive methods,adaptiv metod
+adaptive optimisation ; adaptive optimization,adaptiv optimering
+adaptive regression,adaptiv regression
+additive hazard model,additiv hasardmodell
+additive model,additiv modell
+additive process ; random walk process,additiv process
+adequate subset,adekvat delmängd
+adjusted profile likelihood,justerad profil-likelihood
+admissible decision function,icke-dominerad beslutsfunktion
+admissible estimator,icke-dominerad estimator
+admissible hypothesis,tillåten hypotes
+admissible strategy,icke-dominerad strategi
+admissible test,icke-dominerat test
+affinity,affinitet
+age-adjusted rate,ålderskorrigerad intensitet
+age-dependent birth and death process,åldersberoende födelse-dödsprocess
+age-dependent branching process,åldersberoende förgreningsprocess
+age-sex-adjusted rate,intensitet justerad för ålder och kön
+age-specific death rate ; force of mortality ; instantaneous death rate ; hazard function,åldersspecifikt dödstal
+age-specific mortality rate,åldersspecifik dödsintensitet
+age-specific rate,åldersspecifik intensitet
+aggregation,aggregering
+algorithm,algoritm
+allele,allel
+allocation of a sample,stickprovsallokering
+allocation rule,allokeringsregel
+allokurtic,oliktoppig
+allowable defects,acceptanstal
+almost certain,nästan säker
+almost certainly,nästan säkert
+almost everywhere,nästan överallt
+almost stationary,nästan stationär
+almost surely,nästan säkert
+alpha error ; α-error ; type I error ; error of first kind ; rejection error,typ I-fel; fel av första slaget
+alternating process,alternerande process
+alternating renewal process,alternerande förnyelseprocess
+alternative hypothesis ; non-null hypothesis,mothypotes; alternativhypotes
+amount of information,informationsmängd
+amount of inspection,kontrollomfattning
+amplitude,amplitud
+amplitude ratio,amplitudkvot
+analysis of covariance ; ANCOVA ; covariance analysis,kovariansanalys; ANCOVA
+analysis of dispersion ; multivariate analysis of variance ; MANOVA,multivariat variansanalys; MANOVA
+analysis of variance ; ANOVA ; variance analysis,variansanalys; ANOVA
+ancillary information ; background information,ancillär information
+ancillary statistic,ancillär statistika
+angular transformation ; arc sine transformation,vinkeltransformation
+angular variables,vinkelvariabel
+anisotropic distribution,anisotropisk fördelning
+ANOVA table,variansanalystabell
+antithetic variables,antitetisk variabel
+aperiodic state,aperiodiskt tillstånd
+approximation error,approximationsfel
+arbitrary origin ; working mean ; working origin ; provisional mean ; assumed mean,provisoriskt medelvärde
+arc sine distribution,arcsinus-fördelning
+area sampling,yturval; areellt urval
+arithmetic mean ; arithmetic average ; mean ; average,aritmetiskt medelvärde
+array ; ordered series,uppställning
+arrival distribution,ankomstfördelning
+assay,assay
+assignable variation,hänförbar variation
+association,samband
+association analysis,sambandsanalys
+asymmetrical distribution,asymmetrisk fördelning
+asymmetrical factorial design,asymmetriskt faktorförsök
+asymmetrical test ; one-sided test ; one-tailed test ; single tail test,asymmetriskt test
+asymmetry ; skewness,asymmetri
+asymptotic distribution,asymptotisk fördelning
+asymptotic efficiency,asymptotisk effektivitet
+asymptotic normality,asymptotisk normalitet
+asymptotic relative efficiency ; ARE,asymptotisk relativ effektivitet
+asymptotic standard error,asymptotiskt medelfel
+asymptotic test,asymptotiskt test
+asymptotically efficient estimator,asymptotisk effektiv estimator
+asymptotically most powerful test,asymptotiskt starkaste test
+asymptotically stationary,asymptotiskt stationär
+asymptotically unbiased estimator,asymptotiskt väntevärdesriktig estimator
+attributable risk ; etiologic fraction,hänförbar risk
+attribute,attribut
+autocorrelation ; serial correlation,autokorrelation
+autocorrelation coefficient,autokorrelationskoefficient
+autocorrelation function ; ACF,autokorrelationsfunktion
+autocovariance,autokovarians
+autocovariance function ; covariance function,autokovariansfunktion
+autocovariance generating function,autokovariansgenererande funktion
+automatic model selection,automatiskt modellval
+autonomous equations,autonom ekvation
+autoregression,autoregression
+autoregressive conditional heteroscedasticity model ; ARCH model,ARCH-modell
+autoregressive integrated moving average process ; ARIMA process,ARIMA-process
+autoregressive model,autoregressiv modell
+autoregressive moving average process ; ARMA process ; Box-Jenkins model,ARMA-process
+autoregressive process,autoregressiv process
+autoregressive series,autoregressiv serie
+autoregressive transformation,autoregressiv transformation
+average amount of inspection,genomsnittlig kontrollomfattning
+average deviation ; mean deviation ; mean absolute deviation ; mean absolute error,genomsnittlig absolutavvikelse
+average outgoing quality level ; AOQ,genomsnittlig utgående kvalitet; AOQ
+average outgoing quality limit ; AOQL,"gräns för genomsnittlig utgående kvalitet, AOQL"
+average run length ; ARL ; average sample run length,genomsnittlig svitlängd
+average sample number curve,kurva för genomsnittligt provuttag
+average sample number function ; ASN function,funktion för genomsnittligt provuttag
+axial distribution,axialfördelning
+backcalculation ; backprojection,bakåtprojektion
+backward equations,bakåtekvationer
+backward process,bakåtprocess
+balanced factorial experimental design,balanserad faktor-design
+balanced incomplete block,balanserat ofullständigt block-
+balanced lattice square,balanserad gitterkvadrat
+balanced sample,balanserat urval
+bandwidth,bandvidd
+bar chart,stapeldiagram
+base,bas
+base line,baslinje
+base period ; reference period,basperiod
+base weight,basvikt
+batch variation,partivariation
+bell-shaped curve,klockformad kurva
+Bernoulli distribution ; binomial distribution ; point binomial,binomialfördelning
+Bernoulli trials,bernoulliförsök
+best estimator ; optimum statistic,bästa estimator
+best fit,bästa anpassning
+best linear unbiased estimator ; BLUE,bästa linjära väntevärdesriktiga estimator; BLUE
+beta coefficients,betakoefficient
+beta distribution,betafördelning
+beta-binomial distribution ; compound binomial distribution,beta-binomialfördelning
+between-groups variance,mellangruppsvarians
+bias,bias; systematiskt fel
+biased coin design,obalanserad försöksplan
+biased estimator,estimator med bias; icke-väntevärdesriktig estimator
+biased sample,urval med bias
+biased test,test med bias
+bilinear model,bilinjär modell
+bimodal distribution,bimodal fördelning
+binary data ; binary variable ; dichotomous variable,binär variabel
+binomial waiting time distribution ; negative binomial distribution ; Pascal distribution,negativ binomialfördelning
+bioassay ; biological assay,bioassay
+bioequivalence test,bioekvivalenstest
+bioinformatics,bioinformatik
+biometric functions,biometrisk funktion
+biostatistics,biostatistik
+bipolar factor,bipolär faktor
+birth and death process,födelse-dödsprocess
+birth process,födelseprocess
+birth rate,födelsetal
+biserial correlation,biserial korrelation
+bivariate distribution,bivariat fördelning
+blinding,blindning; maskering
+block,block
+bootstrap methods,bootstrap-metod
+bootstrap test,bootstrap-test
+box and whisker plot,lådagram med morrhår
+box plot,lådagram
+branching process ; Galton-Watson process ; multiplicative process,förgreningsprocess
+break point ; change point,brytpunkt
+Brownian bridge,brownsk brygga
+Brownian motion process,brownsk rörelseprocess
+Bruceton method ; staircase method ; up and down method,gafflingsmetod
+bulk sampling,bulkprovtagning
+busy period,upptagetperiod
+calibration,kalibrering
+call-back,återkontakt
+canonical,kanonisk
+canonical correlation,kanonisk korrelation
+canonical matrix,kanonisk matris
+canonical variable,kanonisk variabel
+capture/release sampling ; capture/recapture sampling,fångst-återfångstmetod
+cartogram,kartogram
+cascade process,kaskadprocess
+case-control study ; case-referent study ; retrospective study ; choice-based sampling,fall-kontrollstudie
+catastrophe theory,katastrofteori
+categorical data,kategoriska data
+categorical distribution,kategorisk fördelning
+categorical variable,kategorisk variabel
+category,kategori
+causal chain model,kausalkedjemodell
+causality,kausalitet
+cause-specific hazard function,orsaksspecifik hasardfunktion
+cell frequency ; class frequency,klassfrekvens
+censoring,censurering
+census,totalräkning; totalundersökning
+centile ; percentile,percentil
+central confidence interval,symmetriskt konfidensintervall
+central factorial moments,centralt faktoriellt moment
+central limit theorem,centrala gränsvärdessatsen
+central moment,centralmoment
+central tendency,centraltendens
+centroid method,centroidmetod
+chain,kedja
+chain graph,kedjegraf
+chain index,kedjeindex
+chance variation,slumpvariation
+change point estimator,brytpunktsestimator
+change point models,brytpunktsmodell
+change point problem ; disorder problem,brytpunktsproblem
+changeover trial,crossover-försök
+characteristic,karakteristika
+characteristic function,karakteristisk funktion
+characteristic functional,karakteristisk funktional
+characteristic root ; eigenvalue ; latent root (vector),egenvärde
+chi distribution,chi-fördelning
+chi-squared distribution,chitvå-fördelning
+chi-squared statistic,chitvå-statistika
+chi-squared test ; s-test,chitvå-test
+chunk sampling,bekvämlighetsurval
+circular chart ; circular diagram ; pie diagram ; pie chart ; sector chart,cirkeldiagram
+circular distribution,cirkulär fördelning
+circular histogram ; polar wedge diagram ; rose diagram,kompassrosdiagram
+circular mean deviation,cirkulär medelavvikelse
+circular mean difference,cirkulär medelskillnad
+circular normal distribution,cirkulär normalfördelning
+circular test,cirkeltest
+circular uniform distribution,likformig fördelning på cirkel
+class,klass
+class mark,klassmitt
+class symbol,klassymbol
+classification ; taxonomy,klassifikation
+classification statistic,klassifikationsstatistika
+clinical trials ; clinical study,klinisk prövning
+closed sequential scheme,sluten sekventiell urvalsplan
+closed sequential t-tests ; wedge plans,slutet sekventiellt t-test
+closed-ended question,sluten fråga
+cluster,kluster
+cluster analysis,klusteranalys
+cluster randomized trial,kluster-randomiserat försök
+cluster sampling ; multi-stage sampling ; sequential selection ; sequential sampling,klustersampling
+clustering,klusterbildning
+coefficient,koefficient
+coefficient of agreement,överensstämmelsekoefficient
+coefficient of association,associationskoefficient
+coefficient of concentration,koncentrationskoefficient
+coefficient of concordance ; Kendall’s coefficient of concordance ; rank concordance coefficient,konkordanskoefficient
+coefficient of consistence,konsistenskoefficient
+coefficient of contingency,kontingenskoefficient
+coefficient of correlation,korrelationskoefficient
+coefficient of determination,förklaringsgrad; determinationskoefficient
+coefficient of multiple correlation ; multiple correlation coefficient,multipel korrelationskoefficient
+coefficient of multiple partial correlation,multipel partiell korrelationskoefficient
+coefficient of variation ; variation coefficient ; percentage standard deviation,variationskoefficient
+coherence,koherens
+cohort,kohort
+cohort life table,kohortbaserad livslängdstabell
+cohort study,kohortstudie
+cold deck method,cold deck-metod
+collinearity,kollinearitet
+combination of tests,kombinering av test
+combinatorial methods,kombinatoriska metoder
+combinatorial test,kombinatoriskt test
+common factor,gemensam faktor
+common factor variance ; communality,kommunalitet
+communicate,kommunicera
+communicating class,kommunicerande klass
+compact (serial) cluster,kompakt kluster
+compartment models,kompartmentmodell
+competing risks,konkurrerande risker
+complete case analysis,analys av fullständiga fall
+complete class (of decision functions),fullständig klass (av beslutsfunktioner)
+complete class (of tests),fullständig klass (av tester)
+complete correlation matrix,fullständig korrelationsmatris
+complete Latin square,fullständig romersk kvadrat
+complete linkage clustering,fullständig länk-klustring
+complete set of Latin squares,fullständig mängd av romerska kvadrater
+complete sufficient statistic,fullständig uttömmande statistika
+complete system of equations,fullständigt ekvationssystem
+completely randomised design ; completely randomized design,fullständigt randomiserad försöksplan
+completeness,fullständighet
+component analysis,komponentanalys
+component bar chart,ackumulerat stapeldiagram
+component of interaction,samspelskomponent
+component of variance ; variance component,varianskomponent
+composite estimator,sammansatt estimator
+composite hypothesis,sammansatt hypotes
+composite sampling scheme,sammansatt urvalsplan
+compound distribution ; compound frequency distribution,sammansatt fördelning
+compressed limits,insnävade gränser
+computer-intensive methods,datorintensiv metod
+concentration,koncentration
+concomitant variable ; covariate,kovariat
+concordance,konkordans
+conditional,betingad
+conditional distribution,betingad fördelning
+conditional expectation ; conditional expected value,betingat väntevärde
+conditional failure rate ; hazard,hasard
+conditional Gaussian distribution ; CG distribution,betingad normalfördelning
+conditional independence,betingat oberoende
+conditional inference,betingad inferens
+conditional likelihood,betingad likelihood
+conditional logistic regression,betingad logistisk regression
+conditional maximum likelihood,betingad maximum likelihood
+conditional power function,betingad styrkefunktion
+conditional probability,betingad sannolikhet
+conditional regression,betingad regression
+conditional statistic,betingad statistika
+conditional survivor function,betingad överlevnadsfunktion
+conditional test,betingat test
+conditionally unbiased estimator,betingat väntevärdesriktig skattning
+confidence belt ; confidence band,konfidensband
+confidence coefficient ; confidence level,konfidensnivå
+confidence interval,konfidensintervall
+confidence limits,konfidensgränser
+confidence region,konfidensområde
+configuration ; grid sampling,konfiguration
+confirmatory factor analysis ; CFA,konfirmativ faktoranalys
+confluence analysis,konfluensanalys
+conformity,överensstämmelse
+confounding,confounding
+conjugate distribution,konjugerad fördelning
+conjugate Latin squares,konjugerade romerska kvadrater
+conjugate prior,konjugerad apriorifördelning
+conjugate ranking,konjugerad rangordning
+consistency,konsistens
+consistent estimator,konsistent estimator
+consistent test,konsistent test
+constraint,bivillkor
+consumer price index ; cost-of-living index ; consumption price index ; CPI,konsumentprisindex
+consumer's risk,konsumentrisk
+contagious distribution,kontagiös fördelning
+contaminated distribution,kontaminerad fördelning
+content validity,innehållsvaliditet
+contingency,kontingens
+contingency table,kontingenstabell
+continuity,kontinuitet
+continuity correction ; correction for continuity,kontinuitetskorrektion
+continuous process,kontinuerlig process
+continuous random variable,kontinuerlig stokastisk variabel
+continuous sampling plans,kontinuerlig provtagningsplan
+contrast,kontrast
+control,kontroll; styrning; reglering
+control chart,styrdiagram; kontrolldiagram
+control limits,styrgränser; kontrollgränser
+control method,styrmetod; kontrollmetod
+controlled process,styrd process; process under kontroll
+convergence in measure,konvergens i fördelning
+convergence in probability,konvergens i sannolikhet
+convolution,faltning; konvolution
+copula,kopula
+corrected moment,korrigerat moment
+correction factor,korrektionsfaktor
+correction for grouping,korrektion för klassindelning
+correlation,korrelation
+correlation matrix,korrelationsmatris
+correlation table,korrelationstabell
+correlogram,korrelogram
+correspondence analysis ; reciprocal scaling,korrespondensanalys
+cost function,kostnadsfunktion
+counting process,räkneprocess
+covariance,kovarians
+covariance kernel,kovarianskärna
+covariance matrix ; dispersion matrix,kovariansmatris
+covariation,samvariation
+coverage,täckning
+coverage probability,täckningssannolikhet
+criterion,kriterium
+critical region ; rejection region,förkastelseområde
+critical value ; rejection limit ; significance point,kritiskt värde
+cross-correlation,korskorrelation
+cross-covariance,korskovarians
+cross-over design ; switchback design ; reversal design,crossover-design
+cross-sectional survey,tvärsnittsundersökning
+cross-validation,korsvalidering
+cubic lattice,kubgitter
+cumulant,kumulant
+cumulant generating function,kumulantgenererande funktion
+cumulative distribution function ; cumulative probability function ; cumulative frequency function ; distribution function ; probability integral,fördelningsfunktion
+cumulative error,ackumulerat fel
+cumulative frequency curve ; cumulative probability curve,fördelningsfunktion
+cumulative incidence,kumulativ incidens
+cumulative process,kumulativ process
+cumulative risk ; cumulative hazard,kumulativ risk
+cumulative sum chart,kusumdiagram
+cumulative sum distribution,kusumfördelning
+current life table,tidsbegränsad livslängdstabell
+curtailed inspection,avbruten kontroll
+curve fitting,kurvanpassning
+curve of concentration,koncentrationskurva
+curvilinear trend,kurvlinjär trend
+CUSUM procedures,kusumprocedur
+cut-off,cut-off
+cycle,cykel
+cyclic design,cyklisk försöksplan
+cyclic order,cyklisk ordning
+cyclic series,cyklisk serie
+D²-statistic ; Mahalanobis' generalised distance ; Mahalanobis' generalized distance,D²-statistika
+damped oscillation,dämpad svängning
+damping factor,dämpningsfaktor
+data ; datum,data
+data analysis,dataanalys
+database ; data bank,databas
+death process,dödsprocess
+death rate,dödstal
+decapitated distribution ; decapitated negative binomial distribution,nolltrunkerad fördelning
+decile,decil
+decision function ; decision rule,beslutsfunktion
+decision space,beslutsrum
+decision theory,beslutsteori
+decomposable models,spjälkbar model
+decomposition,spjälkning
+deconvolution,dekonvolution
+decreasing failure rate,avtagande felintensitet
+decreasing hazard rate,avtagande hasard
+defective sample,ofullständigt stickprov
+defective unit,defekt enhet
+defining contrast,definierande kontrast
+degenerate distribution ; deterministic distribution,degenererad fördelning; enpunktsfördelning
+degree of belief,grad av tilltro
+degrees of freedom,frihetsgrader
+delta distribution,deltafördelning
+delta method,deltametod
+demodulation,demodulering
+demography,demografi
+dendrogram,dendrogram; träddiagram
+density estimation,skattning av täthetsfunktion
+density function,täthetsfunktion; frekvensfunktion
+departure process,utprocess
+dependence ; dependency,beroende
+dependent variable ; effect variable ; regressand ; response variable,beroende variabel
+derived statistics,härledd statistika
+descriptive indices,beskrivande index
+descriptive statistics,beskrivande statistik
+descriptive survey,beskrivande undersökning
+design matrix,design-matris
+design of experiments,försöksplanering
+design optimality ; optimality of design,design-optimalitet
+destructive test,förstörande provning
+determining variable,förklarande variabel
+deterministic model,deterministisk modell
+deterministic process,deterministisk process
+deviate ; deviation,standardiserad variabel
+diagonal regression,diagonal regression
+dichotomy,dikotomi
+difference sign test,teckentest på successiva ändringar
+differential process ; process with independent increments,differentialprocess
+differential-difference equation,differential-differensekvation
+diffuse prior ; vague prior,icke-informativ apriorifördelning
+diffusion index,diffusionsindex
+diffusion process,diffusionsprocess
+dilution series,utspädningsserie
+dimension reduction,dimensionsreducering
+direct correlation ; positive correlation,positiv korrelation
+direct sampling,direkturval
+direct standardisation ; direct standardization,direkt standardisering
+directional data,riktningsdata
+dirty data,oediterade data
+disability adjusted life year ; DALY,invaliditetsjusterade levnadsår
+discontinuous process,diskontinuerlig process
+discontinuous variable,diskontinuerlig variabel
+discordance,diskordans
+discounted least squares method,"diskonterad minsta-
+kvadratmetod"
+discrepance,diskrepans; skillnad
+discrete circular uniform distribution,"diskret cirkulär likformig
+fördelning"
+discrete distribution,diskret fördelning
+discrete lognormal distribution,diskret lognormalfördelning
+discrete normal distribution,diskret normalfördelning
+discrete power series distribution,diskret potensseriefördelning
+discrete probability law,diskret sannolikhetsfördelning
+discrete process,diskret process
+discrete random variable,diskret stokastisk variabel
+discrete rectangular distribution,diskret likformig fördelning
+discrete variate,diskret stokastisk variabel
+discrete wavelet transformation,diskret  wavelet-transformation
+discriminant analysis ; discriminatory analysis,diskriminantanalys
+disnormality,icke-normalitet
+dispersion ; spread ; variance,spridning; dispersion
+dispersion index ; index of dispersion,dispersionsindex
+dispersion stabilising transformation ; dispersion stabilizing transformation,spridningsstabiliserande transformation
+displaced Poisson distribution,förskjuten poissonfördelning
+disproportionate subclass numbers,icke-proportionella subklasstorlekar
+dissection (of heterogeneous distributions),uppdelning (av heterogen fördelning)
+dissimilarity,olikhet
+dissymmetry,icke-symmetri
+distance,avstånd
+distance distributions,avståndsfördelning
+distance measures,avståndsmått
+distributed lag,fördelad tidsförskjutning
+distribution,fördelning
+distribution curve,fördelningskurva
+distribution mixture,fördelningblandning
+distribution of exceedances,överskridandefördelning
+distribution of run lengths,svitlängdsfördelning
+distribution-free method,fördelningfri metod
+distribution-free sufficiency,fördelningsfri tillräcklighet
+disturbed harmonic process,störd harmonisk process
+disturbed oscillation,störd svängning
+divergence,divergens
+domain of study,redovisningsgrupp; domän
+dominating strategy,dominerande strategi
+dose metameter,dosmetameter
+dose-response curve,dos-responskurva
+dose-response relationship,dos-responssamband
+dotplot,punktdiagram
+double binomial distribution,dubbel binomialfördelning
+double censoring,dubbel censurering
+double confounding,dubbel confounding
+double dichotomy,dubbel dikotomi
+double exponential distribution ; Laplace distribution,dubbel exponentialfördelning
+double logarithmic chart,dubbellogaritmiskt diagram
+double sampling,dubbelsampling
+double-blind,dubbelblind
+double-ratio estimator,dubbel-kvotestimator
+doubly stochastic matrix,dubbelstokastisk matris
+doubly stochastic Poisson process ; Cox process,dubbelstokastisk poissonprocess
+doubly truncated normal distribution,dubbelt trunkerad normalfördelning
+downward bias,systematisk underskattning
+dropout,avhoppare
+dual process,dualprocess
+duality,dualitet
+dummy observation,dummyobservation
+dummy treatment,dummybehandling
+dummy variable,dummyvariabel
+duplicate sample,parallellurval
+duplicated sample,duplicerat urval
+dynamic model,dynamisk modell
+dynamic programming,dynamisk programmering
+dynamic stochastic process,dynamisk stokastisk process
+dynamic treatment allocation,dynamisk behandlingsallokering
+econometrics,ekonometri
+effective degrees of freedom,effektivt antal frihetsgrader
+effective unit,icke-defekt enhet
+efficiency,effektivitet
+efficiency factor,effektivitetsfaktor
+efficiency index,effektivitetsindex
+efficient estimator,effektiv estimator
+elementary contrast,elementär kontrast
+elementary renewal theorem,grundläggande förnyelsesatsen
+elementary unit,elementär enhet
+elimination,eliminering
+ellipse of concentration,koncentrationsellips
+ellipsoidal normal distribution,ellipsoid normalfördelning
+elliptical normal distribution,elliptisk normalfördelning
+elliptical truncation,elliptisk trunkering
+elliptically symmetric distributions,elliptiskt symmetrisk fördelning
+ellipticity,ellipticitet
+empirical Bayes' estimator,empirisk bayes-estimator
+empirical Bayes' procedure,empirisk bayes-procedur
+empirical distribution function,empirisk fördelningsfunktion
+empirical likelihood,empirisk likelihood
+empirical probit,empirisk probit
+end corrections,ändpunktskorrektion
+endogenous variate ; endogenous variable,endogen variabel
+entropy,entropi
+environmental statistics,miljöstatistik
+epidemic,epidemi; epidemisk
+epidemic process ; epidemic model,epidemisk process
+epidemiology,epidemiologi
+epsilon-independence ; ε-independence,epsilon-oberoende
+equal probability of selection method ; epsem sampling,urvalsmetod med lika sannolikheter
+equally correlated distribution,likakorrelerad fördelning
+equal-tails test,symmetriskt test
+equilibrium,jämviktsläge
+equilibrium distribution,jämviktsfördelning
+equilibrium renewal process,stationär förnyelseprocess
+equivalence class,ekvivalensklass
+equivalence testing,ekvivalenstest
+equivalent dose,likvärdig dos
+equivalent samples,likvärdiga stickprov
+equivariant estimator,ekvivariant estimator
+ergodic state,ergodiskt tillstånd
+ergodicity,ergodicitet
+error,fel
+error band,felmarginal
+error function ; Kramp function,felfunktion
+error function complement,felfunktionskomplement
+error in equations,fel i ekvationer
+error mean square,medelkvadratsumma för residualer
+error of estimation,estimationsfel
+error of observation,observationsfel
+error sum of squares ; residual sum of squares,residualkvadratsumma
+error variance ; residual variance,residualvarians
+errors in surveys,fel i undersökningar
+errors-in-variables model,modell med fel i variabler
+essential completeness,essentiell fullständighet
+estimable,skattningsbar; estimerbar
+estimate,skattning; estimat
+estimating equation,skattningsekvation
+estimation ; estimating,skattning; estimation
+estimator,stickprovsfunktion; estimator; skattning
+Euclidean distance,euklidiskt avstånd
+event,händelse
+event history data,händelsehistoria
+event space ; sample space ; sample description space,utfallsrum
+evolutionary operation,evolutionär operation
+evolutionary process,evolutionär process
+evolutionary spectrum,evolutionärt spektrum
+exact statistical method,exakt statistisk metod
+exact test,exakt test
+exceedance life test,livslängdsöverskottstest
+exceedances,överskridande
+exceedances tests,överskottstest
+exchangeability,utbytbarhet
+exchangeable (variables) ; symmetrically dependent,utbytbara variabler
+exhaustive sampling,uttömmande urval; totalundersökning
+exogenous variate ; exogenous variable,exogen variabel
+expectation ; expected value,väntevärde
+expected frequencies ; theoretical frequencies,förväntad frekvens
+expected probit,förväntad probit
+experimental error,försöksfel
+experimental unit,försöksenhet
+expert system,expertsystem
+exploratory data analysis ; EDA,explorativ dataanalys; EDA
+exploratory survey,explorativ undersökning
+explosive process,exploderande process
+exponential curve,exponentialkurva
+exponential dispersion model,exponentiell spridningsmodell
+exponential distribution ; negative exponential distribution,exponentialfördelning
+exponential family ; Koopman-Darmois family,exponentialfamilj
+exponential regression,exponentiell regression
+exponential smoothing,exponentiell utjämning
+extended Bayes' decision rule,utvidgad bayesiansk beslutsregel
+extended hypergeometric distribution,utvidgad hypergeometrisk fördelning
+extended negative binomial distribution,utvidgad negativ binomialfördelning
+external validity,extern validitet
+extrapolation,extrapolering
+extrapolation forecasting,prognos genom extrapolering
+extremal index,extremalindex
+extremal intensity,extremalintensitet
+extremal process,extremalprocess
+extremal quotient,extremalkvot
+extremal statistic,extremalstatisika
+extreme mean,extremt medelvärde
+extreme studentised deviate ; extreme studentized deviate,extrem studentiserad variabel
+extreme values,extremvärde
+extreme-value distributions ; Gumbel distribution,extremvärdesfördelning
+factor,faktor
+factor analysis,faktoranalys
+factor loading ; test coefficient,faktorladdning
+factor matrix,faktormatris
+factor pattern,faktormönster
+factor rotation,faktorrotation
+factor score,faktorpoäng
+factorial cumulant,faktoriell kumulant
+factorial cumulant generating function,faktoriell kumulantgenererande funktion
+factorial distribution,faktoriell fördelning
+factorial experiment ; factorial design,faktorförsök
+factorial moment,faktoriellt moment
+factorial moment generating function,faktoriell momentgenererande funktion
+factorial multinomial distribution ; multivariate hypergeometric distribution,faktoriell multinomialfördelning
+factorial sum,faktorialsumma
+failure rate ; hazard rate ; hazard function,felintensitet
+fair game ; equitable game,rättvist spel
+false negative,falskt negativ
+false positive,falskt positiv
+fast Fourier transform ; FFT,snabb fouriertransform
+fatigue models,utmattningsmodell
+F-distribution ; Snedecor's F-distribution ; variance ratio distribution,F-fördelning
+fertility gradient,fertilitetsgradient
+fertility rate,fertilitetstal
+fiducial distribution,fiduciell fördelning
+fiducial inference,fiduciell inferens
+fiducial limits,fiduciella gränser
+fiducial probability,fiduciell sannolikhet
+filter,filter
+finite arc sine distribution,ändlig arcsinusfördelning
+finite Markov chain,ändlig markovkedja
+finite multiplier ; finite population correction ; finite sampling correction,ändlighetskorrektion
+finite population,ändlig population
+first passage time ; entrance time,första passagetid
+first return time,första återkomsttid
+first stage unit,förstastegsenhet; primär urvalsenhet
+fixed base index,fastbasindex
+fixed effects (constants) model,modell med fixa effekter
+fixed sample,stående urval
+folded distributions,absolutvärdesfördelning
+follow-up,uppföljning
+forecasting ; prediction,prognos
+forward equations,framåtekvationer
+four-fold table ; two-by-two frequency table,fyrfältstabell
+Fourier analysis,fourieranalys
+Fourier transform,fouriertransform
+fractal,fraktal
+fractile ; quantile,fraktil; kvantil
+fractile graphical analysis,grafisk analys av fraktiler
+fraction defective,felkvot
+fractional Brownian motion,fraktionell brownsk rörelse
+fractional replication,fraktionell upprepning
+frailty model,frailty-modell
+frame,ram
+freehand method,frihandsmetod
+frequency,frekvens
+frequency curve,frekvenskurva
+frequency distribution,frekvensfördelning
+frequency domain,frekvensdomän
+frequency moment ; probability moment,frekvensmoment
+frequency polygon,frekvenspolygon
+frequency response function ; transfer function,frekvenssvarsfunktion
+frequency surface,frekvensyta
+frequency table,frekvenstabell
+frequency theory of probability,frekventistisk sannolikhetsteori
+frequentist,frekventist
+F-test ; variance ratio test,F-test
+full information method,fullständig-informationsmetod
+functional relationship,funktionellt samband
+fundamental probability set ; reference set,utfallsrum
+fundamental random process,fundamental slumpprocess
+funnel plot,tratt-diagram
+fuzzy set theory,oskarp mängdlära
+gain function,förstärkningssfunktion; vinstfunktion
+gambler's ruin,spelarens ruin
+game theory,spelteori
+gamma coefficients,gammakoefficient
+gamma distribution,gammafördelning
+gamma function,gammafunktion
+gamma integral,gammaintegral
+gamma-frailty models,gamma-frailty-modell
+GARCH model ; generalised autoregressive conditional heteroscedasticity model ; generalized autoregressive conditional heteroscedasticity model,GARCH-modell
+general factor,g-faktor
+general interdependent system,generellt interdependent system
+general renewal process,generell förnyelseprocess
+generalised additive model ; generalized additive model ; GAM,generaliserad additiv modell
+generalised binomial distribution ; generalized binomial distribution ; Poisson binomial distribution,generaliserad binomialfördelning
+generalised bivariate exponential distribution ; generalized bivariate exponential distribution,generaliserad bivariat exponentialfördelning
+generalised classical linear estimators ; generalized classical linear estimators ; two-stage least squares,generaliserad klassisk linjär estimator
+generalised contagious distribution ; generalized contagious distribution,generaliserad kontagiös fördelning
+generalised cross-validation ; generalized cross-validation ;,generaliserad korsvalidering
+generalised distance ; generalized distance,generaliserat avstånd
+generalised distribution ; generalized distribution,generaliserad fördelning
+generalised estimating equations ; generalized estimating equations ; GEE,generaliserad skattningsekvation
+generalised extreme-value distribution ; generalized extreme-value distribution ;,generaliserad extremvärdesfördelning
+generalised gamma distributions ; generalized gamma distributions ; Creedy and Martin generalised gamma distribution ; Creedy and Martin generalized gamma distribution,generaliserad gammafördelning
+generalised inverse ; generalized inverse ; pseudo-inverse ; Moore-Penrose inverse,generaliserad invers
+generalised least squares estimator ; generalized least squares estimator,generaliserad minsta-kvadratestimator
+generalised linear model ; generalized linear model,generaliserad linjär modell
+generalised maximum likelihood estimator ; generalized maximum likelihood estimator,generaliserad maximum likelihoodestimator
+generalised mixed model ; generalized mixed model,generaliserad blandad modell
+generalised multinomial distribution ; generalized multinomial distribution,generaliserad multinomialfördelning
+generalised normal distribution ; generalized normal distribution ; Kapteyn's univariate distribution,generaliserad normalfördelning
+generalised stable law ; generalized stable law,generaliserad stabil fördelning
+generalised T² distribution ; generalized T² distribution,generaliserad T²-fördelning
+generating function,genererande funktion
+genetic algorithm,genetisk algoritm
+geometric distribution,geometrisk fördelning
+geometric mean,geometriskt medelvärde
+geometric moving average,geometriskt glidande medelvärde
+geometric probability,geometrisk sannolikhet
+geostatistics,geostatistik
+girdle distribution,ringfördelning
+given period,aktuell period
+goodness of fit,anpassningsgrad
+gradual changes,gradvis förändring
+graduation curve,utjämningsskurva
+Graeco-Latin square,grekisk-romersk kvadrat
+graphical estimator,grafisk estimator
+graphical model,grafisk modell
+grid,rutnät
+group,grupp
+group comparison,gruppjämförelse
+group divisible design ; group divisible PBIB,gruppdelbar försöksplan
+group divisible incomplete block design,gruppdelbar försöksplan med ofullständiga block
+group divisible rotatable designs,gruppdelbar roterbar försöksplan
+group factor,gruppfaktor
+group screening methods,gruppsållningsmetod
+group sequential design,gruppsekventiell försöksplan
+group testing,grupptestning
+grouped Poisson distribution,grupperad poissonfördeling
+grouping lattice,gitter för gruppindelning
+growth curve,tillväxtkurva
+g-statistics,g-statistika
+Guttman scaling,guttmanskalning
+half-invariant ; semi-invariant,semi-invariant
+half-normal distribution ; semi-normal distribution,semi-normal fördelning
+half-normal plot,halv-normalplott
+half-normal probability paper,halv-normalfördelningspapper
+half-width ; semi-range,halv intervallängd
+harmonic analysis,harmonisk analys
+harmonic dial,harmoniskt klockdiagram
+harmonic distribution,harmonisk fördelning
+harmonic mean,harmoniskt medelvärde
+harmonic process,harmonisk process
+harmonic regression,harmonisk regression
+hat matrix,hattmatris
+hazard rate distribution,hasardfördelning
+heterogeneity,heterogenitet
+heterokurtic,oliktoppig
+heteroscedastic,heteroskedastisk
+hidden Markov model,dold markovmodell
+hierarchical birth and death process,hierarkisk födelse-dödsprocess
+hierarchical classification ; nested classification,hierarkisk klassificering
+hierarchical cluster analysis,hierarkisk klusteranalys
+hierarchical group divisible design,hierarkisk grupp-delbar försöksplan
+hierarchical model,hierarkisk modell
+hierarchy,hierarki
+high-low graph,min-maxdiagram
+histogram,histogram
+historical controls,historiska kontroller
+hitting point,träfftidpunkt
+homogeneity,homogenitet
+homogeneous process,homogen process
+homokurtic,liktoppig
+homoscedastic,homoskedastisk
+honest process,reguljär process
+horseshoe effect,hästskoeffekt
+hot deck method,hot deck-metod
+hyperexponential distribution,hyperexponentialfördelning
+hypergeometric distribution,hypergeometrisk fördelning
+hypergeometric waiting time distribution ; inverse hypergeometric distribution,hypergeometrisk väntetidsfördelning
+hyper-Graeco-Latin square,hyper-grekisk-romersk kvadrat
+hyper-spherical normal distribution,hypersfärisk normalfördelning
+hypothesis testing ; testing of hypothesis,hypotesprövning
+hypothetical population,hypotetisk population
+ideal index number,idealt index
+identical errors,likafördelade fel
+identifiability,identifierbarhet
+idle period,inaktiv period
+ill-conditioned,illakonditionerad
+illness-death model,sjukdom-död-modell
+illusory association ; illusory correlation ; nonsense correlation,nonsenskorrelation
+image analysis,bildanalys
+image processing,bildbehandling
+imbedded process,inbäddad process
+immigration,immigration
+improper distribution,oegentlig fördelning
+improper prior,oegentlig aprioriföredelning
+impulse response function,impulssvarsfördelning
+imputation,imputering
+inadmissible estimator,dominerad estimator
+incidence,incidens
+incidence rate,incidenstal
+inclusion probability,inklusionssannolikhet
+incomplete beta function,ofullständig betafunktion
+incomplete block,ofullständigt block
+incomplete census,ofullständig totalundersökning
+incomplete data,ofullständiga data
+incomplete gamma function,ofullständig gammafunktion
+incomplete Latin square ; Youden square,ofullständig romersk kvadrat
+incomplete multi-response design,ofullständig multi-responsdesign
+inconsistent estimator,inkonsistent estimator
+increasing failure rate,växande felintensitet
+increasing hazard rate,växande hasard
+independence,oberoende
+independent censoring,oberoende censurering
+independent trials,oberoende försök
+independent variable ; cause variable ; explanatory variable ; fixed variable ; predicated variable ; predictor ; predictor variable ; regressor,förklarande variabel; oberoende variabel
+index number ; index,indextal
+indicator function,indikatorfunktion
+indicator variable,indikatorvariabel
+indifference,indifferens
+indirect least squares,indirekt minsta-kvadratmetod
+indirect sampling,indirekt urval
+indirect standardisation ; indirect standardization,indirekt standardisering
+induction,induktion
+inefficient estimator,icke-effektiv estimator
+inefficient statistic,icke-effektiv statistika
+inequality coefficient,olikhetskoefficient
+inferential statistics,statistisk inferens
+infinite divisibility,oändlig delbarhet
+infinite population ; infinite universe,oändlig population
+inflation factor,uppräkningsfaktor
+influence,influens
+influence curve,influenskurva
+influence function,influensfunktion
+influential observation,inflytelserik observation
+information,information
+information criterion,informationskriterium
+information matrix,informationsmatris
+information theory,informationsteori
+informative censoring,informativ censurering
+informative prior,informativ apriorifördelning
+inherent bias,inneboende bias
+inhomogeneous Poisson process,inhomogen poissonprocess
+input/output process,input-output-process
+inspection by attribute,attributkontroll
+inspection diagram,kontrolldiagram
+inspection lot,kontrollparti
+instantaneous state,ögonblickstillstånd
+instrumental variable,instrumentalvariabel
+integer programming,heltalsprogrammering
+integrated data,integrerade data
+integrated moving average process ; IMA process,IMA-process
+integrated spectrum,integrerat spektrum
+intensity,intensitet
+intensity function,intensitetsfunktion
+intensive sampling,intensivt urval
+interaction,samspel
+interblock,mellanblocks-
+intercalate Latin square,inskjuten romersk kvadrat
+intercept,intercept; skärning
+interclass correlation,mellanklasskorrrelation
+interclass variance,mellanklassvarians
+interdecile range,decilavstånd
+internal validity,intern validitet
+internal variance,inomklassvarians
+interpenetrating samples (subsamples) ; network of samples,interpenetrerande urval
+interpolation,interpolering
+interquartile range ; IQR,kvartilavstånd
+interval censoring,intervallcensurering
+interval distribution,intervallängdsfördelning
+interval estimation,intervallskattning
+intervention analysis,interventionsanalys
+interviewer bias,intervjuarbias
+intrablock,inomblocks-
+intrablock analysis,inomblocksanalys
+intraclass correlation,inomklasskorrelation
+intraclass variance,inomklassvarians
+intrinsic accuracy,inneboende noggrannhet
+invariance,invarians
+invariance method,invariansmetod
+invariant,invariant
+inventory problems,lagerproblem
+inverse distribution,invers fördelning
+inverse Gaussian distribution ; Wald distribution ; inverse normal distribution,invers normalfördelning
+inverse moment,moment av negativ ordning
+inverse probability,invers sannolikhet
+inverse problems,inversproblem
+inverse sampling,invers sampling
+inverse sine transformation,arcsinustransformation
+inversion,invertering
+irreducible Markov chain ; irreducible chain,irreducibel markovkedja
+isokurtosis,liktoppighet
+isometric chart,isometriskt diagram
+isomorphism,isomorfi
+isotonic regression function,isotonisk regressionsfunktion
+isotropic distribution,isotropisk fördelning
+isotropy,isotropi
+item analysis,item-analys
+iterated bootstrap,itererad bootstrap
+iterative weighted least squares,iterativ vägd minsta-kvadratmetod
+jackknife,jackknife
+jackknife variance estimator,jackknife-variansestimator
+joint prediction intervals,simultana prediktionsintervall
+joint sufficiency,simultan tillräcklighet
+J-shaped distribution,J-formad fördelning
+judgment sample,bedömningsurval
+jump matrix,hoppmatris
+just identified model,exakt identifierad modell
+Kalman filter,kalmanfilter
+k-class estimator,k-klassestimator
+kernel density estimator,kärnestimator
+kernel estimate ; kernel estimator,kärnestimat
+kernel smoothing in regression,kärnutjämning i regression
+k-means clustering,k-medelvärdesklustring
+k-ratio,k-kvot
+kriging,kriging
+k-samples problem,k-sampelproblem
+K-test,K-test
+kurtosis,toppighet
+ladder index,stegindex
+ladder variable,stegvariabel
+lag,tidsförskjutning; lagg
+lag correlation,
+lag covariance,
+lag regression,regression med tidsförskjutna variabler
+Laplace transform,laplace-transform
+latent class analysis ; latent trait analysis,latent klass-analys
+latent structure,latent struktur
+latent variable,latent variabel
+Latin cube,romersk kub
+Latin rectangle,romersk rektangel
+Latin square,romersk kvadrat
+lattice design,gitterdesign
+lattice distributions,gitterfördelning
+lattice square,gitterkvadrat
+law of iterated logarithm,itererad logaritm-lag
+law of large numbers,stora talens lag
+law of small numbers,små talens lag
+least significant difference test ; LSD test,LSD-test
+least squares estimator,minsta-kvadratestimator
+least squares method,minsta-kvadratmetod
+left-censoring,vänster-censurering
+left-truncation,vänster-trunkering
+leptokurtosis,flacktoppighet
+L-estimator,L-estimator
+level map,nivåkarta
+level of a factor,faktornivå
+level of interpenetration,interpenetreringsnivå
+level of significance ; significance level,signifikansnivå
+leverage ; influence ; leverage point,hävstångseffekt
+life expectancy,förväntad livslängd
+life table,livslängdstabell
+lifetime distribution,livslängdsfördelning
+likelihood,likelihood
+likelihood principle,likelihood-princip
+likelihood ratio,likelihood-kvot
+likelihood ratio test,likelihood-kvottest
+Likert scale,likertskala
+limited information estimator,informationsbegränsad estimator
+limited information methods,informationsbegränsade  metoder
+line of equal distribution ; line of equidistribution,likhetslinje
+line sampling,linjesampling
+line spectrum,linjespektrum
+linear constraint,linjärt bivillkor
+linear discriminant function,linjär diskriminantfunktion
+linear estimator,linjär estimator
+linear failure rate distribution,fördelning med linjär felintensitet
+linear hypothesis,linjär hypotes
+linear maximum likelihood method,linjär maximum-likelihoodmetod
+linear model,linjär modell
+linear process,linjär process
+linear programming,linjär programmering
+linear regression,linjär regression
+linear structural relation,linjär strukturekvation
+linear sufficiency,linjär tillräcklighet
+linear trend ; rectilinear trend,linjär trend
+linearised maximum likelihood method ; linearized maximum likelihood method,lineariserad maximum-likelihoodmetod
+link function,länkfunktion
+linkage,koppling
+linkage analysis,kopplingsanalys
+linked blocks,kopplade block
+linked data,länkade data
+linked samples,kopplade stickprov
+list sample,listurval
+loading,laddning
+local asymptotic efficiency,lokal asymptotisk effektivitet
+local likelihood estimation,lokal likelihood-skattning
+location,läge
+location parameter,lägesparameter
+log F distribution,log-F-fördelning
+log gamma distribution,log-gammafördelning
+logarithmic chart ; logarithmic graph,logaritmiskt diagram
+logarithmic normal distribution ; lognormal distribution,log-normalfördelning
+logarithmic series distribution,logaritmseriefördelning
+logarithmic transformation,logaritmisk transformation
+log-chi-squared distribution,log-chitvå-fördelning
+logistic curve ; Pearl-Read curve,logistika
+logistic distribution,logistisk fördelning
+logistic process,logistisk process
+logistic regression ; linear logistic regression,logistisk regression
+logit,logit
+log-linear models,log-linjär modell
+log-log transformation,log-log-transformation
+log-logistic distribution,log-logistisk fördelning
+lognormal,log-normal
+log-rank test ; Mantel-Haenszel test,log-rangtest
+longitudinal survey,longitudinell undersökning
+Lorenz curve,lorenzkurva
+loss function,förlustfunktion
+loss matrix,förlustmatris
+loss of information,informationsförlust
+lot,parti
+lot quality protection,kvalitetsskydd för enskilt parti
+lot tolerance per cent defective,högsta tillåtna felkvot i parti
+lottery sampling ; ticket sampling,tombolaurval
+lower control limit,undre styrgräns
+lower quartile,undre kvartil
+L-tests,L-test
+magic square design,magisk-kvadratförsök
+main effect,huvudeffekt
+manifold classification ; multiple classification,flerdimensionell klassificering
+marginal category,marginalkategori
+marginal classification,marginalklassificering
+marginal distribution,marginalfördelning
+marked point process,märkt punkt-process
+marker variable,markörvariabel
+Markov chain,markovkedja
+Markov chain Monte Carlo ; MCMC,MCMC
+Markov field,markovfält
+Markov process,markovprocess
+martingale,martingal
+master sample,basurval
+matched samples,matchade urval
+matching,matchning
+matching coefficient,matchningskoefficient
+matching distribution,matchningsfördelning
+matrix sampling,matrisurval
+maximin criterion,maximin-kriterium
+maximum entropy method,maximum entropi-metod
+maximum entropy principle,maximum entropi-princip
+maximum likelihood estimator ; MLE,maximum likelihood-estimator
+maximum likelihood method,maximum likelihood-metod
+mean difference,medeldifferens
+mean direction,medelriktning
+mean range,genomsnittlig variationsvidd
+mean residual life,återstående medellivslängd
+mean square,medelkvadrat
+mean square deviation,medelkvadratavvikelse
+mean square error,medelkvadratfel
+mean values,medelvärde
+measure of location ; measure of central tendency,lägesmått
+median,median
+median effective dose ; ED50,medianeffektiv dos; ED50
+median lethal dose ; lethal dose 50 ; LD50,medianletal dos; LD50
+median survival time,medianöverlevnadstid
+median test,mediantest
+median unbiased confidence interval,medianriktigt konfidensintervall
+median unbiasedness,medianriktighet
+mesokurtosis,medeltoppighet
+M-estimate,M-skattning
+M-estimator,M-estimator
+meta-analysis,metaanalys
+metameter,metameter
+method of moments,momentmetod
+method of path coefficients ; standardised regression coefficients ; standardized regression coefficients,stigkoefficientmetod
+method of steepest ascent,brantaste lutningsmetod
+mid-mean,kvartiltrimmat medelvärde
+mid-range,variationsområdets mittpunkt
+mid-rank method,medelrangmetod
+minimal sufficient statistics,minimal tillräcklig statistika
+minimax estimation,minimax-skattning
+minimax principle,minimax-princip
+minimax regret principle,minimax-regret-princip
+minimax robust estimator,minimax-robust estimator
+minimax strategy,minimax-strategi
+minimum chi-squared,minimum chitvå
+minimum completeness,minimal fullständighet
+minimum variance,minsta varians
+misclassification,felklassificering
+missing at random ; MAR,slumpmässigt saknat; MAR
+missing completely at random ; MCAR,fullständigt slumpmässigt saknat; MCAR
+missing data,saknat värde
+mixed autoregressive-moving average process ; ARMA process,ARMA-process
+mixed distribution,sammansatt fördelning
+mixed model,blandad modell
+mixed strategy,blandad strategi
+mixture distribution,blandfördelning
+mixture of distributions,blandning av fördelningar
+mode ; modal value,typvärde
+model,modell
+model I ; first kind model,modell av typ I
+model II ; second kind model ; random effects model,modell av typ II
+modified binomial distribution,modifierad binomialfördelning
+modified control limits,modifierade styrgränser
+modified exponential curve,modifierad exponentialkurva
+modified Latin square,modifierad romersk kvadrat
+modified mean ; modified arithmetic mean ; trimmed mean,modifierat medelvärde
+modified normal distributions,modifierad normalfördelning
+moment ; moment coefficient ; power moment,moment
+moment estimator,momentestimator
+moment generating function,momentgenererande funktion
+moment matrix,momentmatris
+moment ratio,momentkvot
+monotone likelihood ratio,monoton likelihood-kvot
+monotone regression,monoton regression
+Monte Carlo method,Monte Carlo-metod
+monthly average,månadsmedelvärde
+morphometrics,morfometri
+most efficient estimator,effektivaste estimator
+most powerful critical region,starkaste kritiska område
+most powerful rank test,starkaste rangtest
+most powerful test,starkaste test
+most stringent test,mest stringenta test
+moving annual total,glidande årssumma
+moving average,glidande medelvärde
+moving average method,glidande medelvärdesmetod
+moving average model,glidande medelvärdesmodell
+moving average process ; Slutsky process,glidande medelvärdesprocess
+moving range,glidande variationsvidd
+moving seasonal variation,glidande säsongvariation
+moving summation process,glidande summationsprocess
+moving total,glidande summa
+moving weights,glidande viktsystem
+multicollinearity,multikollinearitet
+multi-dimensional scaling,flerdimensionell skalning
+multi-equational model ; simultaneous equations model,flerekvationsmodell
+multi-factorial design,flerfaktor-design
+multilinear process,multilinjär process
+multi-modal distribution,flertoppig fördelning
+multinomial distribution,multinomialfördelning
+multi-phase sampling,flerfasurval
+multiple bar chart,grupperat stapeldiagram
+multiple comparisons,multipla jämförelser
+multiple decision methods,multipel beslutsmetod
+multiple decision problem,multipelt beslutsproblem
+multiple factor analysis,multipel faktoranalys
+multiple imputation,multipel imputering
+multiple Markov process,multipel markovprocess
+multiple phase process,flerfasprocess
+multiple Poisson distribution,multipel poissonfördelning
+multiple Poisson process,multipel poissonprocess
+multiple regression,multipel regression
+multiple sampling,multipel provtagning
+multiple stratification,multipel stratifiering
+multiple time series,multipel tidsserie
+multiplicity,multiplicitet
+multi-stage sample ; multi-stage sampling,flerstegsurval
+multistate model,flertillståndsmodell
+multi-temporal model,multi-temporal modell
+multi-valued decision,flervärdesbeslut
+multivariate analysis,multivariat analys
+multivariate analysis of variance table ; MANOVA table,MANOVA-tabell
+multivariate beta distribution,multivariat betafördelning
+multivariate binomial distribution,multivariat binomialfördelning
+multivariate distribution ; joint distribution,flerdimensionell fördelning; multivariat fördelning
+multivariate exponential distribution,flerdimensionell exponentialfördelning
+multivariate F-distribution,flerdimensionell F-fördelning
+multivariate multinomial distribution,flerdimensionell multinomialfördelning
+multivariate negative binomial distribution ; negative multinomial distribution,flerdimensionell negativ binomialfördelning
+multivariate normal distribution,flerdimensionell normalfördelning
+multivariate processes,multivariat process
+multivariate quality control,multivariat kvalitetskontroll
+multivariate signed rank test,multivariat tecken-rangtest
+mutability ; variability,variabilitet
+natural conjugate prior,naturlig konjugerad apriorifördelning
+nearest-neighbour clustering ; single-linkage clustering,närmaste-granneklustring
+nearest-neighbour methods,närmaste-grannemetod
+nearly best linear estimator,nästan bästa linjära estimator
+negative hypergeometric distribution,negativ hypergeometrisk fördelning
+negative moments,moment av negativ ordning
+nested balanced incomplete block design,nästlad design med balanserade ofullständiga block
+nested case-control studies,nästlade fall-kontrollstudier
+nested design,nästlad design
+nested hypotheses,nästlade hypoteser
+nested methods,nästlad metod
+network sampling,nätverksurval
+neural network,neuralt nätverk
+new better than used distribution ; NBU distribution,NBU-fördelning
+noise,brus
+nomogram ; nomograph,nomogram
+non-central beta distribution,icke-central betafördelning
+non-central chi-square distribution ; non-central χ² distribution ; Rice distribution,icke-central chitvå-fördelning
+non-central confidence interval,icke-centralt konfidensintervall
+non-central F-distribution,icke-central F-fördelning
+non-central multivariate beta distribution,icke-central flerdimensionell betafördelning
+non-central multivariate F-distribution,icke-central flerdimensionell F-fördelning
+non-central t-distribution,icke-central t-fördelning
+non-centrality parameter,parameter för icke-centralitet
+non-compliance ; non-adherence,icke-följsamhet
+non-ignorable non-response,icke-ignorerbart bortfall
+nonlinear regression ; nonlinear model ; curvilinear regression ; skew regression,icke-linjär regression
+non-normal population,icke-normalfördelad population
+non-parametric,icke-parametrisk
+non-parametric confidence intervals,icke-parametriskt konfidensintervall
+non-parametric delta method,icke-parametrisk deltametod
+non-parametric maximum likelihood,icke-parametrisk maximum likelihood
+non-parametric tolerance limits,icke-parametriska toleransgränser
+non-random sample,icke-slumpmässigt stickprov
+non-recurrent state,icke återkommande tillstånd
+non-regular estimator,icke-reguljär estimator
+non-response,bortfall
+non-sampling error,icke-urvalsfel
+non-singular distribution,icke-singulär fördelning
+normal deviate ; Normit,värde på standardiserad normalfördelning
+normal distribution ; Gaussian distribution ; Laplace-Gauss distribution ; Gauss distribution ; second law of Laplace,normalfördelning
+normal equations,normalekvationer
+normal inspection,normal kontroll
+normal probability paper,normalfördelningspapper
+normal scores tests,normalscore-test
+normalisation of frequency function ; normalization of frequency function,normalisering av frekvensfunktion
+normalisation of scores ; normalization of scores,poängnormalisering
+normalising transformation ; normalizing transformation,normaliserande transformation
+nuisance parameters,störparameter
+null hypothesis,nollhypotes
+null recurrent state ; transient state,transient tillstånd
+numerical taxonomy ; taxonometry,numerisk taxonomi
+oblimax,oblimax
+oblique factor,oblik faktor
+observable variable,observerbar variabel
+observational error,observationsfel
+observational study,observationsstudie
+observed at random ; OAR,slumpmässigt observerat
+observed information matrix,observerad informationsmatris
+occupancy problems,beläggningsproblem
+octiles,oktiler
+odds,odds
+official statistics,officiell statistik
+one-way classification,envägsindelning
+open sequential scheme,öppen sekventiell urvalsplan
+open-ended classes,öppen klass
+open-ended question,öppen fråga
+operating characteristic,acceptanssannolikhet
+operational research (br.) ; operations research (am.),operationsanalys
+opinion survey ; opinion poll,opinionsundersökning
+optimal stopping rule,optimal stoppregel
+optimum allocation,optimal allokering
+optimum linear predictor,optimal linjär prediktor
+optimum stratification,optimal stratifiering
+optimum test,optimalt test
+order of interaction,samspelsordning
+order of stationarity,stationaritetsordning
+order statistics,ordningsstatistika
+ordered alternative hypothesis,ordnad mothypotes
+ordered categorisation ; ordered categorization,ordnad kategorisering
+orderly stationary point process ; regular stationary point process,reguljär stationär punktprocess
+orthogonal,ortogonal
+orthogonal arrays,ortogonal uppställning
+orthogonal design,ortogonal design
+orthogonal functions,ortogonala funktioner
+orthogonal polynomials,ortogonala polynom
+orthogonal process,ortogonal process
+orthogonal projection,ortogonal projektion
+orthogonal regression,ortogonal regression
+orthogonal squares,ortogonala kvadrater
+orthogonal tests ; independent tests,ortogonala test
+orthogonal variable transformation,ortogonal variabeltransformation
+orthonormal system,ortonormalt system
+oscillation,svängning
+oscillatory process,oscillerande process
+outcome,utfall
+outlier prone distribution,outlier-benägen fördelning
+outliers,outlier; avvikande värde
+overdispersion,överdispersion
+over-identification,överidentifiering
+overlapping sampling units,överlappande urvalsenheter
+paired comparison,parvis jämförelse
+paired t-test,parat t-test
+pairwise independence,parvist oberoende
+panel data,paneldata
+panel study,panelstudie
+parallel line assay,parallell-linje-assay
+parameter,parameter
+parameter of location,lägesparameter
+parameter of scale,skalparameter
+parameter orthogonality,parameterortogonalitet
+parameter point,parameterpunkt
+parametric hypothesis ; parameter hypothesis,parametrisk hypotes
+parametric programming,parametrisk programmering
+partial association,partiellt samband
+partial confounding,partiell confounding
+partial contingency,partiell kontingens
+partial correlation,partiell korrelation
+partial correlogram,partiellt korrelogram
+partial least squares ; PLS,partiell minsta-kvadrat
+partial rank correlation,partiell rangkorrelation
+partial regression,partiell regression
+partial replacement,partiell återläggning
+partial serial correlation ; partial autocorrelation,partiell autokorrelation
+partially balanced arrays,partiellt balanserad uppställning
+partially balanced incomplete block design,partiellt balanserad ofullständig block-design
+partially balanced lattice,partiellt balanserat gitter
+partially balanced linked block design,partiellt balanserad kopplad block-design
+partially consistent observations,partiellt konsistenta observationer
+partially linked block design,partiellt kopplad block-design
+partition of chi-squared ; partition of χ²,uppspjälkning av chi-två
+path analysis,stiganalys
+pattern recognition,mönsterigenkänning
+patterned sampling ; systematic sample,systematiskt urval
+pay-off matrix,betalmatris
+peak ; peak value,toppvärde
+penalised estimation ; penalized estimation,penaliserad estimation
+penalised least squares ; penalized least squares,penaliserat minsta-kvadratkriterium
+penalised likelihood ; penalized likelihood,penaliserad likelihood
+penalised quasi-likelihood ; penalized quasi-likelihood,penaliserad kvasi-likelihood
+percentage diagram,procentdiagram
+percentage distribution,procentuell fördelning
+percentile confidence interval,percentilbaserat konfidensintervall
+percolation process,perkolationsprocess
+performance characteristic,prestandaegenskap
+period,period
+period of a state,period för tillstånd
+periodic process,periodisk process
+periodogram ; Schuster periodogram,periodogram
+permissible estimator,tillåten skattning
+persistency,persistens
+persistent state ; positive recurrent state,persistent tillstånd
+person-years,personår
+perturbation techniques,perturbationsteknik
+phase,fas
+phase diagram,fasdiagram
+phase function,fasfunktion
+phase spectrum,fasspektrum
+pictogram,piktogram
+piecewise regression ; segmented regression,styckvis regression
+pilot survey ; pilot sample,provundersökning; pilotundersökning
+pivotal quantity,pivåvariabel
+placebo,placebo
+platykurtosis,lågtoppighet
+plot,plott; provyta
+point biserial correlation,punktbiserial korrelation
+point bivariate distribution ; bivariate distribution of two discrete variables,diskret bivariat fördelning
+point estimation,punktskattning
+point of control ; point of indifference,indifferenspunkt
+point process,punktprocess
+point sampling,punkturval
+polychoric correlation,polykorisk korrelation
+polycross designs,polycross-design
+polynomial regression,polynomregression
+polynomial trend,polynomtrend
+polyspectra,polyspektrum
+polytomic table,polytom tabell
+pooling of classes,klass-sammanslagning
+pooling of error,poolning av fel
+population genetics,populationsgenetik
+positive binomial distribution,positiv binomialfördelning
+positive hypergeometric distribution,positiv hypergeometrisk fördelning
+positive skewness,positiv snedhet
+posterior probability,aposteriorisannolikhet
+power ; strength of a test,styrka
+power function,styrkefunktion
+power spectrum ; spectral function,spektralfunktion
+power transformation,potenstransformation
+P-P plot,P-P-plott
+precedence test,underskottstest
+precision,precision
+precision matrix,precisionsmatris
+predetermined variable,förutbestämd variabel
+prediction interval,prediktionsintervall
+predictive decomposition,prediktiv spjälkning
+predictive inference,prediktiv inferens
+predictive likelihood,prediktiv likelihood
+predictive regression analysis,prediktiv regressionsanalys
+preference table,preferenstabell
+prevalence ; prevalence rate,prevalens
+pre-whitening,för-blekning
+price compensation index,priskompensationsindex
+price index,prisindex
+price relative,relativpris
+primary unit,primärenhet
+principal components,principalkomponent
+principal components regression,principalkomponentregression
+principal coordinates analysis,principalkoordinatanalys
+prior probability ; a priori probability,apriorisannolikhet
+priority queuing,prioriterad köordning
+probability,sannolikhet
+probability density function ; PDF ; frequency function,täthetsfunktion
+probability distribution,sannolikhetsfördelning
+probability element,sannolikhetselement
+probability limits,sannolikhetsgräns
+probability mass,sannolikhetsmassa
+probability paper,sannolikhetspapper
+probability plot,sannolikhetsdiagram
+probability ratio test,likelihood-kvottest
+probability sampling,sannolikhetsurval
+probability surface,sannolikhetsyta
+probit,probit
+probit analysis,probitanalys
+probit regression line,probitregression
+procedural bias,procedur-bias
+process average fraction defective,genomsnittlig felkvot för process
+processing error,bearbetningsfel
+producer's risk,producentrisk
+product moment ; joint moment ; multivariate moment,produktmoment
+product moment correlation ; Pearson coefficient of correlation,produktmomentkorrelation
+profile analysis ; analysis of variance of longitudinal data,profilanalys
+profile likelihood,profil-likelihood
+prognostic factor,prognostisk faktor
+progressive average,progressivt medelvärde
+progressively censored sampling,progressivt censurerat urval
+projection,projektion
+proper distribution,egentlig fördelning
+proportional frequency,relativ frekvens
+proportional hazards model ; Cox model,proportionell-hasardmodell
+proportional odds model,proportionella-oddsmodell
+proportional sampling,proportionellt urval
+prospective study ; historical prospective study,prospektiv studie
+protocol,protokoll
+proximity analysis,proximitetsanalys
+pseudo-factor,pseudofaktor
+pseudo-likelihood,pseudo-likelihood
+pseudo-random numbers,pseudoslumptal
+pseudo-spectrum,pseudospektrum
+psychometrics,psykometri
+publication bias,publicerings-bias
+pure birth process,födelseprocess
+pure random process ; random process ; stochastic process ; stable process (distribution) ; stationary process ; stationary stochastic process,stokastisk process
+pure strategy,enkel strategi
+purposive sample,bedömningsurval; avsiktsbaserat urval
+p-value,p-värde
+Q-Q plot,Q-Q-plot
+Q-technique,Q-teknik
+quadrat,kvadrat
+quadratic estimator,kvadratisk skattningsfunktion
+quadratic exponential model,kvadratisk exponentialmodell
+quadratic form,kvadratisk form
+quadratic mean,kvadratiskt medel
+quadratic programming,kvadratisk programmering
+quadratic response,kvadratisk respons
+quadrature spectrum,kvadraturspektrum
+qualitative data,kvalitativa data
+qualitative interaction,kvalitativt samspel
+quality adjusted life year,kvalitetsjusterade levnadsår
+quality control ; quality inspection ; statistical quality control,kvalitetsstyrning; kvalitetskontroll
+quality control chart,kvalitetsstyrdiagram
+quality of life,livskvalitet
+quantal response,kategori-indelad respons
+quantitative data,kvantitativa data
+quantitative response,kvantitativ respons
+quantity relative,relativkvantitet
+quantum index,kvantitetsindex
+quartile,kvartil
+quartile deviation ; semi-interquartile range,kvartilavvikelse
+quartile measure of skewness,kvartilbaserat snedhetsmått
+quartile variation,kvartilvariation
+quasi-compact cluster,kvasikompakt kluster
+quasi-experiments,kvasiexperiment
+quasi-factorial design,kvasifaktoriell försöksplan
+quasi-independence,kvasioberoende
+quasi-Latin square,kvasi-romersk kvadrat
+quasi-likelihood,kvasi-likelihood
+quasi-Markov chain,kvasi-markovkedja
+quasi-median,kvasimedian
+questionnaire ; schedule,frågeformulär
+queueing problem,köproblem
+quintiles,kvintil
+quota sample,kvotasampel
+quotient regression,kvotregression
+radix,radix
+raising factor,uppräkningsfaktor
+random,slumpmässig; slump-
+random coefficient model,modell med slumpmässiga koefficienter
+random component,slumpkomponent
+random error,slumpfel; slumpmässigt fel
+random event,slumphändelse
+random impulse process,process med slumpmässiga impulser
+random linear graph,linjär slumpgraf
+random number generator,slumptalsgenerator
+random order,slumpmässig ordning
+random sample,slumpmässigt stickprov
+random sampling numbers ; random numbers ; random digits,slumptal
+random selection,slumpurval
+random series,slumpserie
+random start,slumpmässig start
+random walk,slumpvandring
+randomisation ; randomization,randomisering
+randomisation tests ; randomization tests ; permutation tests,randomiseringstest
+randomised blocks ; randomized blocks,randomiserade block
+randomised decision function ; randomized decision function,randomiserad beslutsfunktion
+randomised fractional factorial designs ; randomized fractional factorial designs,randomiserad fraktionell faktoriell design
+randomised response ; randomized response,randomiserad respons
+range,variationsvidd
+range chart,variationsviddsdiagram
+rank,rang
+rank correlation,rangkorrelation
+rank order statistics,rangstatistika
+rank scores ; rank transformation,rangtal
+rankit,rankit
+rank-randomisation tests ; rank-randomization tests,randomiserat test baserat på rang
+rank-weighted mean,rang-vägt medelvärde
+ratio,kvot
+ratio estimator,kvotestimator
+ratio scale,kvotskala
+raw moment,råmoment
+raw score,råpoäng
+realisation ; realization,realisering
+records tests,rekordtest
+recovery of information,informationsåtervinnande
+rectangular distribution ; uniform distribution,likformig fördelning
+rectangular lattice,rektangulärt gitter
+rectified index number,rektifierat indextal
+rectifying inspection,kontroll följd av rättning
+recurrence time,återkomsttid
+recurrent Markov chain,rekurrent markovkedja
+recurrent state,återkommande tillstånd
+recursive algorithm,rekursiv algoritm
+recursive system,rekursivt system
+reduced design,reducerad design
+reduced equations,reducerade ekvationer
+reduced inspection,reducerad kontroll
+reduced sample,reducerat stickprov
+reduction of data,reducering av data
+reference prior distribution,referens-apriorifördelning
+reflecting barrier,reflekterande barriär
+refusal rate,andel vägrare
+regenerative process,regenerativ process
+regression,regression
+regression coefficient ; regression weight,regressionskoefficient
+regression curve ; regression line,regressionskurva
+regression diagnostics,regressionsdiagnostik
+regression estimate,regressionsskattning
+regression surface,regressionsyta
+regressogram,regressogram
+regret,ånger; regret
+regular estimator,reguljär skattning
+regular state,reguljärt tillstånd
+rejection line,avvisningslinje
+rejection number,avvisningstal
+relative efficiency (of a sample design),relativ effektivitet
+relative efficiency (of a test) ; power efficiency,relativ effektivitet (av ett test)
+relative efficiency (of an estimator),relativ effektivitet (av en estimator)
+relative frequency,relativ frekvens
+relative information,relativ information
+relative potency,relativ potens
+relative precision,relativ precision
+relative risk ; odds ratio,relativ risk
+relative variance ; relvariance,relativ varians
+reliability,reliabilitet; tillförlitlighet
+reliability coefficient ; self-correlation coefficient,reliabilitetskoefficient
+REML ; reduced maximum likelihood ; restricted maximum likelihood,reducerad maximum likelihood
+remote sensing,fjärranalys
+renewal density,förnyelsetäthet
+renewal distribution,förnyelsefördelning
+renewal function,förnyelsefunktion
+renewal process,förnyelseprocess
+renewal theorem,förnyelsesats
+renewal theory,förnyelseteori
+repeated survey,upprepad undersökning
+repetition,upprepning
+replacement,återläggning
+replication,replikation
+representative sample,representativt urval
+reproducibility,reproducerbarhet
+resampling procedure,återsamplingsförfarande
+residual,residual
+residual treatment effect ; residual effect ; carry over effect ; treatment-period interaction,kvarstående behandlingseffekt; carry-over-effekt
+residual waiting time,återstående väntetid
+response,respons; svar
+response error,svarsfel
+response metameter,responsmetameter
+response surface,responsyta
+response surface designs,responsytedesign
+response time distribution,svarstidsfördelning
+R-estimator,R-skattning
+restricted randomisation ; restricted randomization,villkorad randomisering
+restricted sequential procedure,begränsad sekventiell procedur
+return level,återkomstnivå
+return period ; return time,återkomstperiod
+return states,återkomsttillstånd
+reversal test,omkastningstest
+reversible relation,reversibelt samband
+ridge regression,ridge-regression
+right-censoring,högercensurering
+right-truncation,högertrunkering
+risk ; average loss ; expected loss,risk
+risk factor,riskfaktor
+risk function,riskfunktion
+risk ratio,riskkvot
+robust estimators,robust estimator
+robustness,robusthet
+rotatable design,roterbar försöksplan
+rotation,rotation
+rotation sampling,roterande urval
+Round Robin design,Round Robin-design
+rounding,avrundning
+route sampling,rutt-sampling
+R-process,R-process
+R-technique,R-teknik
+ruin problems,ruinproblem
+runs,svit
+saddle point,sadelpunkt
+sample,stickprov; sampel; urval
+sample design ; sample plan ; survey design ; sampling plan ; sampling design,urvalsplan
+sample moment ; sampling moment,stickprovsmoment
+sample point,stickprovspunkt
+sample size,stickprovsstorlek
+sample statistic ; statistic ; statistics,statistika;  stickprovsvariabel; stickprovsfunktion
+sample survey ; sampling survey ; survey,stickprovsundersökning
+sample unit,urvalsenhet
+sample variance ; sampling variance,stickprovsvarians
+sampling distribution,samplingfördelning
+sampling error,urvalsfel
+sampling for attribute,attributprovtagning
+sampling fraction ; sampling ratio,urvalsfraktion
+sampling frame,urvalsram
+sampling inspection,provtagningskontroll
+sampling interval,stickprovsintervall
+sampling on successive occasions,urval vid successiva tillfällen
+sampling unit,urvalsenhet
+sampling with replacement,urval med återläggning
+saturated model,exakt mättad modell
+saturation,mättningsgrad
+scale equivariant estimator,skalekvivariant estimator
+scale parameter,skalparameter
+scatter diagram ; scattergram ; scatter plot,punktdiagram; spridningsdiagram
+scedasticity,skedasticitet
+scheme of hidden periodicity,förlopp med dold periodicitet
+score,poäng; score
+score equation,score-ekvation
+score statistic,score-statistika
+score vector,score-vektor
+screening design,screening-plan; sållningsplan
+screening inspection,screening-kontroll; sållningskontroll
+seasonal variation ; seasonal fluctuation,säsongvariation
+secondary process,sekundärprocess
+secondary unit ; second- stage unit,andrastegsenhet
+second-order analysis,andra ordningens analys
+second-order stationary ; second-order stationarity,andra ordningens stationaritet
+secular trend ; long-time trend ; trend,trend
+selection bias,urvals-bias
+selection with arbitrary probability ; selection with variable probability,urval med godtyckliga sannolikheter
+selection with equal probability,urval med lika sannolikheter
+selection with probability proportional to size,urval med storleksproportionella sannolikheter
+self-avoiding random walks,självundvikande slumpvandring
+self-conjugate Latin square,symmetrisk romersk kvadrat
+self-weighting sample ; self-weighted sample,självvägande urval
+semi-Latin square,semiromersk kvadrat
+semi-logarithmic chart ; semi-logarithmic graph,semilogaritmiskt diagram
+semi-Markov process,semimarkovprocess
+semi-martingale,semimartingal
+semi-stable law,semistabil fördelning
+semi-stationary process,semistationär process
+semivariogram,semivariogram
+sensitivity analysis,känslighetsanalys
+sensitivity and specificity,sensitivitet och specificitet
+sensitivity function,känslighetsfunktion
+sequential analysis,sekventiell analys
+sequential estimation,sekventiell estimation
+sequential test,sekventiellt test
+serial dilution assay,seriell utspädnings-assay
+series ; statistical series,serie
+shape,form
+shape parameter,formparameter
+shock and error model,chock- och felmodell
+shock model,chockmodell
+shortest confidence intervals ; most selective confidence intervals,kortaste konfidensintervall
+short-term fluctuation,korttidsvariationer
+shot noise,hagelbrus
+sigmoid curve ; sigmoid ; S-curve,sigmoid kurva; S-kurva
+sign test,teckentest
+signed rank test ; Wilcoxon's matched pairs rank test,rangteckentest
+significance,signifikans
+similarity,likhet; similaritet
+similarity index,likhetsindex
+simple hypothesis,enkel hypotes
+simple lattice design,enkel gitterplan
+simple random sampling,enkelt slumpmässigt urval; obundet slumpmässigt urval
+simple structure,enkel struktur
+simplex algorithm,simplexalgoritm
+simplex designs,simplex-design
+simplex method,simplexmetod
+simplex models,simplexmodell
+simulation model,simuleringsmodell
+simultaneous confidence intervals,simultana konfidensintervall
+simultaneous estimation,simultan estimation
+simultaneous tolerance intervals,simultana toleransintervall
+single factor theory,enfaktorteori
+single-blind,enkelblind
+singular distribution,singulär fördelning
+six point assay,sexpunkts-assay
+size,storlek
+size of a test,signifikansnivå
+skew distribution,sned fördelning
+slippage test,förskjutningstest
+slope ratio assay,lutningskvots-assay
+slowly varying function,långsamt varierande funktion
+smoothing ; graduation,utjämning
+smoothing power,utjämningsförmåga
+snowball sampling,snöbollsurval
+sojourn time,uppehållstid
+space-time clustering,rum-tidsklustring
+spatial point process,spatial punktprocess
+spatial statistics,rumslig statistik
+spatial systematic sample,systematiskt urval i rummet
+specific factor,specifik faktor
+specific rate,specifik kvot; specifikt tal
+specification bias ; specification error,specifikationsfel
+specificity,specificitet
+spectral average,spektralmedelvärde
+spectral decomposition,spektralspjälkning
+spectral density function,spektraltäthetsfunktion
+spectral distribution function,spektralfördelningsfunktion
+spectral weight function ; spectral window,spektralviktsfunktion
+spectrum,spektrum
+spent waiting time,förbrukad väntetid
+spherical distribution,sfärisk fördelning
+spherical mean direction,sfärisk medelriktning
+spherical normal distribution,sfärisk normalfördelning
+spherical standard error,sfäriskt medelfel
+spherical variance,sfärisk varians
+spherical variance function,sfärisk variansfunktion
+spherically symmetric distributions,sfäriskt symmetrisk fördelning
+splicing,skarvning
+spline estimate,spline-estimat
+split half method ; split test method,halveringsmetod
+split plot design ; split plot method,splitplot-försök
+spreadsheet,kalkylblad
+spurious correlation,skenbar korrelation; nonsenskorrelation
+square lattice,gitterkvadrat
+square root transformation,kvadratrotstransformation
+squariance ; sum of squares about the mean,kvadratsumma
+stabilisation of variance ; stabilization of variance,variansstabilisering
+stability test,stabilitetstest
+stable law,stabil fördelning
+stable state,stabilt tillstånd
+staircase design,trappstegs-design
+staircase distribution,trappstegsfördelning
+standard deviation ; standard deviate,standardavvikelse
+standard error,medelfel
+standard error of estimate,estimats medelfel
+standard Latin square,standardiserad romersk kvadrat
+standard measure,standardiserat mått
+standard population,standardpopulation
+standard score ; z-score,standardiserad poäng
+standardised deviate ; standardised deviate,standardiserad variabel
+standardised mortality ratio ; standardized mortality ratio ; SMR,standardiserat dödstal
+standardised variable ; standardized variable,standardiserad variabel
+stationary distribution,stationär fördelning
+stationary population,stationär population
+statistical decision function,statistisk beslutsfunktion
+statistical graphics,statistisk grafik
+statistical hypothesis,statistisk hypotes
+statistical literacy,statistisk allmänbildning
+statistical population,statistisk population
+statistical tolerance interval,statistiskt toleransintervall
+statistical tolerance limit ; prediction limit,statistisk toleransgräns
+statistical tolerance region,statistisk toleransregion
+statistically equivalent block,statistiskt likvärdiga block
+stem and leaf display ; stem and leaf plot ; stem and leaf diagram,stam-och-blad-diagram
+stepwise regression,stegvis regression
+stereogram,stereogram
+stereology,stereologi
+stochastic,stokastisk; slump-; slumpmässig
+stochastic approximation procedure,stokastisk approximationsprocedur
+stochastic convergence,stokastisk konvergens
+stochastic dependence,stokastiskt beroende
+stochastic disturbance,stokastisk störning
+stochastic kernel,stokastisk kärna
+stochastic matrix,stokastisk matris
+stochastic model ; statistical model,stokastisk modell
+stochastic programming,stokastisk programmering
+stochastic transitivity,stokastisk transitivitet
+stochastic variable ; variable ; random variable ; random variate ; variate,slumpvariabel; stokastisk variabel
+stochastic volatility,stokastisk volatilitet
+stochastically larger or smaller,stokastiskt större eller mindre
+stopping rule,stoppregel
+strata chart,ackumulerat linjediagram; ytdiagram
+strategy,strategi
+stratification,stratifiering
+stratification after selection,efterstratifiering; poststratifiering
+stratified sample,stratifierat urval
+stratum,stratum
+strictly dominated estimator,"strikt dominerad estimator; strängt 
+dominerad estimator"
+strictly stationary process,strikt stationär process
+strong completeness,stark fullständighet
+strong convergence,stark konvergens
+strong law of large numbers,stark form av stora talens lag
+strongly consistent estimator,starkt konsistent estimator
+structural changes,strukturell förändring
+structural equation,strukturekvation
+structural equation models,strukturekvationsmodell
+structural parameters,strukturparameter
+structural time-series models,strukturell tidsseriemodell
+structure,struktur
+studentisation ; studentization,studentisering
+studentised confidence interval ; studentized confidence interval,studentiserat konfidensintervall
+studentised range ; studentized range,studentiserad variationsvidd
+Student's distribution ; Student's t-distribution ; t-distribution,Students t-fördelning
+subexponential distribution,subexponentiell fördelning
+subjective Bayesian inference,subjektiv bayesiansk inferens
+subjective probability ; personal probability,subjektiv sannolikhet
+submartingale,submartingal
+subnormal dispersion,subnormal spridning
+subsample,subsampel; underurval
+subsampling,subsampling; underurval
+sub-series,delserie
+substitute F-ratio,förenklad F-kvot
+substitute t-ratio,förenklad t-kvot
+substitution,substitution
+successive difference statistic,successiv differens-statistiska
+sufficiency,tillräcklighet
+superefficiency,supereffektivitet
+superfluous variable,överflödig variabel
+super-martingale,supermartingal
+supernormal dispersion,supernormal spridning
+superpopulation models,superpopulationsmodeller
+superposed process,överlagrad process
+superposed variation,överlagrad variation
+supersaturated design,övermättad föröksplan
+supplementary information ; supplementary data,tilläggsinformation
+support,stöd
+surprise index,överraskningsindex
+survey ; inquiry,undersökning; survey
+survey methodology,undersökningsmetodik
+survival analysis,överlevnadsanalys
+survivor function ; survival function,överlevnadsfunktion
+symmetric circular distribution,symmetrisk cirkulär fördelning
+symmetric stable law,symmetrisk stabil  fördelning
+symmetrical distribution,symmetrisk fördelning
+symmetrical factorial design,symmetriskt faktorförsök
+symmetrical test,symmetriskt test
+symmetry,symmetri
+sympathy effect,sympatieffekt
+synergy,synergi
+systematic,systematisk
+systematic design,systematisk försöksplan
+systematic error,systematiskt fel
+systematic variation,systematisk variation
+taboo probability,tabu-sannolikhet
+taboo state,tabu-tillstånd
+tail area (of a distribution),svansarea (hos en fördelning)
+temporally continuous process,tidskontinuerlig process
+temporally homogeneous process,tidshomogen process
+terminal decision,avslutande beslut
+test of normality,normalfördelningstest
+test statistic,testvariabel
+tetrachoric correlation,tetrakorisk korrelation
+tetrachoric function,tetrakorisk funktion
+theoretical variable,teoretisk variabel
+three-dimensional lattice,tredimensionellt gitter
+three-stage least squares,trestegs minsta-kvadratmetod
+threshold model,tröskelmodell
+threshold theorems,tröskelteorem
+tied ranks,lika ranger
+tightened inspection,skärpt kontroll
+time domain,tidsdomän
+time lag,tidsförskjutning
+time series,tidsserie
+time-dependent covariates,tidsberoende kovariat
+tolerance,tolerans
+tolerance distribution,toleransfördelning
+tolerance factor,toleransfaktor
+tolerance limits,toleransgränser
+tolerance number of defects,tillåtet antal fel
+total correlation,bruttokorrelation
+total inspection,totalkontroll
+total time on test transformation,TTT-transformering
+traffic intensity,trafikintensitet
+transition intensity,övergångsintensitet
+transition matrix,övergångsmatris
+transition probability,övergångssannolikhet
+translation parameter,translationsparameter
+t-ratio distribution,t-kvotsfördelning
+treatment,behandling
+treatment mean square,medelkvadratsumma för behandling
+tree regression,trädstrukturerad regression
+tree structured statistical methods,trädstrukturerad statistisk modell
+trend fitting,trendanpassning
+trial ; experiment,försök; studie
+triangle test,triangeltest
+triangular design,triangulär försöksplan
+triangular distribution,triangelfördelning
+trimmed least squares estimator,trimmad minsta-kvadratestimator
+trimming,trimning
+trinomial distribution,trinominalfördelning
+triple comparisons,trippeljämförelser
+triple lattice,trippelgitter
+trough,vågdal
+true mean,sant medelvärde
+true regression,sann regression
+truncation,trunkering
+T-square test,T-två-test
+T-test,T-test
+t-test ; Student's test,t-test
+turning point,vändpunkt
+two-factor theory,tvåfaktorteori
+two-phase regression,tvåfasregression
+two-phase sampling,tvåfasurval
+two-sided test ; double-tailed test ; two-tailed test,dubbelsidigt test
+two-stage sample,tvåstegsurval
+two-way classification,tvåvägsindelning
+type,typ
+typical period,typisk period
+typical year,typiskt år
+unbiased confidence intervals,väntevärdesriktigt konfidensintervall
+unbiased critical region,väntevärdesriktigt kritiskt område
+unbiased estimating equation,väntevärdesriktig estimationsekvation
+unbiased estimator,väntevärdesriktig estimator
+unbiased test,väntevärdesriktigt test
+underdispersion,underdispersion
+unequal subclasses,olikstora delklasser
+uniform sampling fraction,enhetlig urvalsfraktion
+uniform scores test,likformigt score-test
+uniform spectrum,likformigt spektrum
+uniformly better decision function,likformigt bättre beslutsfunktion
+uniformly minimum risk,likformigt minsta risk
+uniformly most accurate,likformigt mest noggrann
+uniformly most powerful test ; UMP test,likformigt starkaste test
+uniformly unbiased estimator,likformigt väntevärdesriktig estimator
+unimodal,entoppig; unimodal
+union-intersection principle,union-snitt-principen
+union-intersection tests,union-snitt-test
+unique factor,unik faktor
+uniqueness,unicitet
+unit normal random variable ; standard normal variable,standardnormalfördelad variabel
+unitemporal model,unitemporal modell
+univariate distribution,endimensionell fördelning; univariat fördelning
+universe ; statistical universe ; population,population
+unreliability,otillförlitlighet
+unrestricted random sample,obundet slumpmässigt urval
+unweighted mean,ovägt medelvärde
+upper control limit,övre styrgräns
+upper quartile,övre kvartil
+upward bias,systematisk överskattning
+urn model,urnmodell
+U-shaped distribution,U-formad fördelning
+U-statistic,U-statistika
+utility theory,nyttoteori
+validation,validering
+value at risk ; VaR,value at risk; VaR
+value index,värdeindex
+variable sampling fraction,variabel urvalsfraktion
+variable selection,val av variabler
+variables inspection,variabelkontroll-metod
+variance function,variansfunktion
+variance stabilising transformations,variansstabiliserande transformation
+variance-covariance matrix,varians-kovariansmatris
+variate transformation,variabeltransformation
+variation,variation
+varimax,varimax
+vector correlation coefficient,vektorkorrelationskoeffïcient
+Venn diagram,venndiagram
+vital statistics,vitalstatistik
+volatility,volatilitet
+waiting line ; queue,kö
+waiting time,väntetid
+wavelets,wavelet
+weak convergence,svag konvergens
+weight ; weighting coefficient ; weighting factor,vikt
+weight bias,viktbias
+weight function,viktfunktion
+weighted average ; weighted mean,vägt medelvärde
+weighted index number,vägt indextal
+weighted least squares,vägd minsta-kvadratmetod
+weighted regression,vägd regression
+white noise,vitt brus
+wide sense stationary,svagt stationär
+window,fönster
+Winsorised estimation ; Winsorized estimation,winsoriserad estimation
+within-group variance,inomgruppsvarians; inomvarians
+z-distribution,z-fördelning
+zero-sum game,nollsummespel
+zone of indifference ; region of indifference ; indifference zone ; indifference region,indifferenszon
+zone of preference ; region of preference,preferenszon
+z-test,z-test
